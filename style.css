@@ -1,1 +1,11 @@
-
+*{
+    padding: 0;
+    margin: 0;
+}
+.Test{
+    border: 5px;
+    background-color: aliceblue;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px;
+}
